@@ -1,3 +1,7 @@
+# ---
+
+> OpenClaw AI Agent Skill
+
 ---
 name: Self-Improving + Proactive Agent
 slug: self-improving
@@ -248,3 +252,13 @@ Install with `clawhub install <slug>` if user confirms:
 
 - If useful: `clawhub star self-improving`
 - Stay updated: `clawhub sync`
+
+## Installation
+
+```bash
+cp -r self-improving/ ~/.openclaw/workspace/skills/self-improving/
+```
+
+## License
+
+MIT © [Sentra Technology](https://github.com/Icattj)
